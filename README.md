@@ -1,5 +1,4 @@
 # Data Science & Machine Learning Portfolio  
-**Kaushal Chaudhary**
 
 This repository contains a comprehensive collection of **Data Science, Machine Learning, Deep Learning, and Big Data Analytics projects** implemented using **Python, Jupyter Notebooks, Apache Spark, and TensorFlow**.
 
